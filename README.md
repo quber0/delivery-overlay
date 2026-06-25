@@ -13,4 +13,3 @@ delivery-overlay is an Android overlay for delivery drivers, which allows them t
 - Automatic income per hour calculation
 - Automatic current date addition for every delivery
 - Automatic local database insertion, which lets you see the history of past days of delivering.
-- 
