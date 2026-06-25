@@ -1,5 +1,5 @@
 # PL
-# W tym momencie projekt jest *niedokończony*, co oznacza że na 100% nie uda się go skompilować, cokolwiek zrobisz. Jeżeli chcesz pomóc w rozwoju aplikacji, napisz do stevestiw na Discordzie.
+# W tym momencie projekt jest *niedokończony*, co oznacza że na 100% nie uda się go skompilować, cokolwiek byś zrobił. Jeżeli chcesz pomóc w rozwoju aplikacji, napisz do stevestiw na Discordzie.
 delivery-overlay to overlay na Androida dla dostawców delivery, pozwalający im dodawać dostawy do jednej aplikacji. Aplikacja zawiera:
 - Automatyczne obliczanie zarobku na godzinę
 - Automatyczne dodawanie obecnej daty dla każdej dostawy
