@@ -8,7 +8,7 @@ delivery-overlay to overlay na Androida dla dostawców delivery, pozwalający im
 
 
 # EN
-# Currently, this project is *unfinished*, meaning it 100% won't compile, whatever you do. If you're willing to help on the development of the app, DM stevestiw on Discord.
+# Currently this project is *unfinished*, meaning it 100% won't compile, whatever you do. If you're willing to help on the development of the app, DM stevestiw on Discord.
 delivery-overlay is an Android overlay for delivery drivers, which allows them to add their deliveries to one app. The app includes:
 - Automatic income per hour calculation
 - Automatic current date addition for every delivery
